@@ -5,6 +5,7 @@ author: cephalin
 ---
 
 # ASP.NET sample for Azure App Service
+# (forked by Stegag for test Purposes)
 
 This is an ASP.NET MVC web app that you can deploy to Azure App Service using Git. 
 
@@ -17,5 +18,3 @@ To learn how to deploy this starter web app to App Service in a few minutes, go 
 ## License
 
 See [LICENSE](LICENSE).
-
-# This is forked by Stegag for test Purposes
